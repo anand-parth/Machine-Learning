@@ -20,3 +20,5 @@ Assignments for the course Machine Learning which include Fishcer's LDA, Naive B
 </p>
 
 [NaÏve Bayes](https://github.com/anand-parth/Machine-Learning/blob/master/Assignment%201/NaI%CC%88ve%20Bayes.ipynb) </br> </br>
+
+[Logistic Regression with and without Regularisation](https://github.com/anand-parth/Machine-Learning/blob/master/Assignment%202/Logistic%20Regression.ipynb) </br> </br>
